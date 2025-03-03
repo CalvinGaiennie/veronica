@@ -6,7 +6,7 @@ function Home() {
     <div>
       <Nav />
 
-      <div>
+      <div className="m-4">
         <h1>Page Header</h1>
         <p>page content</p>
         <p>page content</p>
